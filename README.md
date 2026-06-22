@@ -27,7 +27,7 @@ When I'm not coding, I'm probably in the kitchen. I'm a passionate home cook who
 
 📧 matheusmerechia@gmail.com  
 🌍 Brasília, Brazil  
-💼 [LinkedIn](#) — *add your link*
+💼 [LinkedIn](#) — (https://www.linkedin.com/in/matheus-merechia-martins-703768367 )
 
 ---
 
@@ -60,4 +60,4 @@ Quando não estou programando, provavelmente estou na cozinha. Sou um cozinheiro
 
 📧 matheusmerechia@gmail.com  
 🌍 Brasília, Brasil  
-💼 [LinkedIn](#) — *adicione seu link*
+💼 [LinkedIn](#) — (https://www.linkedin.com/in/matheus-merechia-martins-703768367 )
