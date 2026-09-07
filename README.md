@@ -7,12 +7,12 @@ I enjoy understanding how data connects to decisions — and how well-structured
 ## What I'm working with
 
 **Languages:** Python, JavaScript, Java, PHP, SQL, HTML, CSS, VHDL  
-**Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
-**Tools:** Git, MySQL, Jupyter Notebook
+**Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost  
+**Tools:** Git, MySQL, Jupyter Notebook, Google Colab, Gemini API
 
 ## What I've built
 
-- **Fake Image Detection Game** — MVP selected among the best projects of the course and presented at the TCU (Tribunal de Contas da União) AI Fair. A gamified experience where users identify real vs. AI-generated images, built in Java with an HTML/CSS interface.
+- **Fake Image Detection Game** — MVP selected among the best projects of the course and presented at the TCU (Tribunal de Contas da União) AI Fair. A gamified experience where users identify real vs. AI-generated images. Integrated the Gemini API to generate contextual hints when a user answers incorrectly, turning each mistake into a learning moment.
 - **Restaurant Order Management System** — A full-stack web app for real-time order tracking, built with PHP, MySQL, and JavaScript.
 
 ## Currently learning
