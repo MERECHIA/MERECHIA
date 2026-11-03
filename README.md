@@ -1,6 +1,6 @@
 # Hi, I'm Matheus Merechia 👋
 
-I'm a Computer Science student at IDP (Brasília, Brazil) focused on **Data Science and applied Artificial Intelligence**. I completed the **GCI World Data Science & AI program** at the University of Tokyo's Matsuo-Iwasawa Lab, and my team placed **3rd among 12 teams** at the Rolê que Rende hackathon (BB Digital Week 2026).
+I'm a Computer Science student at IDP (Brasília, Brazil) focused on **Data Science and applied Artificial Intelligence**. I completed the **GCI World Data Science & AI program** at the University of Tokyo's Matsuo-Iwasawa Lab, and my team and I placed **3rd among 12 teams** at the Rolê que Rende hackathon (BB Digital Week 2026).
 
 I enjoy understanding how data connects to decisions, and how well-structured systems make that connection reliable and scalable.
 
